@@ -1,1 +1,5 @@
-/.vscode
+.vscode
+build/Game.exe
+build/*.o
+build/Game_debug.exe
+build/dist
